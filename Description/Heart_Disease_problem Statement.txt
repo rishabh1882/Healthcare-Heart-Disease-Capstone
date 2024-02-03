@@ -1,0 +1,26 @@
+##### Project on Heart Disease Predictions - Healthcare Domain ###############
+
+Heart disease describes a range of conditions that affect your heart. 
+Diseases under the heart disease umbrella include blood vessel diseases, such as 
+coronary artery disease, heart rhythm problems (arrhythmia) and heart defects you’re 
+born with (congenital heart defects), among others.
+
+Heart disease is one of the biggest causes of morbidity and mortality among the 
+population of the world. Prediction of cardiovascular disease is regarded as one of 
+the most important subjects in the section of clinical data science. The amount of 
+data in the healthcare industry is huge.
+
+Create a ML Model to predict the heart disease (target variable)
+
+1. Load the data in MySQL
+2. Create age bins (age groups) in Mysql as a column and create a view for that.
+3. Connect the MySQL Database with Python to extract the data for analysis
+4. Do proper EDA about each columns. Each row represent 1 patients data
+5. Prepare multiple models with proper diagonistics of the model.
+6. Create a table for each model and its diagonistics such as accuray,Error
+7. Display proper charts and graphs.
+8. Create proper repository in Github named as 'Healthcare - Heart Disease'
+9. Load the datasets, codes and query for Mysql properly in Github with proper
+Readme file with proper descriptions.
+10. Write clean and clear code with comments.
+11. Create a proper presentation why this model will be helpful in future.
